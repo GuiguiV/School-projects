@@ -1,0 +1,1 @@
+## This folder groups some of the school projects made as part of the MVA or the IDSC option.
